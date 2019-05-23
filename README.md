@@ -1,7 +1,5 @@
-# Hands on Machine Learning 
+# Machine Learning Repositories 
 
-This repository contains notebooks I made as I was going through [Hands on Machine Learning by Aurélien Géron](http://shop.oreilly.com/product/0636920052289.do), to use as references/notes.
-
-The author's repository for this book can be found [here](https://github.com/ageron/handson-ml).
+This repository is for the practice Machine Learning techniques from [Hands on Machine Learning by Aurélien Géron
 
  
